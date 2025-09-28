@@ -1,0 +1,11 @@
+
+  {
+    "id": "1",
+    "nombre": "American Airlines",
+    "pais": "Estados Unidos",
+    "fundacion": "1930",
+    "descripcion": "Una de las mayores aerolíneas del mundo por flota y destinos.",
+    "web": "https://www.aa.com",
+    "imagen": "/american airlines.jpg"
+  }
+

@@ -1,0 +1,13 @@
+
+  {
+    "id": "12",
+    "modelo": "Airbus A220-300",
+    "fabricante_id": "2",
+    "aerolineas_ids": ["1","6"],
+    "anho_introduccion": 2016,
+    "tipo": "Narrow-body / Pasajeros (regional largo)",
+    "capacidad_pasajeros": 150,
+    "alcance_km": 6100,
+    "descripcion": "Diseñado originalmente por Bombardier (CSeries) y ahora producido por Airbus; excelente eficiencia en rutas cortas-medias.",
+    "imagen": "/airbus a220-300.jpg"
+  }

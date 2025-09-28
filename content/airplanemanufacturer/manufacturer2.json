@@ -1,0 +1,11 @@
+
+  {
+    "id": "2",
+    "nombre": "Airbus",
+    "pais_sede": "Europa (multipaís)",
+    "fundacion": "1970",
+    "descripcion": "Consorcio europeo fabricante de las familias A320, A330, A350 y A380.",
+    "web": "https://www.airbus.com",
+    "imagen": "/airbus.jpg"
+  }
+

@@ -1,0 +1,10 @@
+
+  {
+    "id": "1",
+    "nombre": "Boeing",
+    "pais_sede": "Estados Unidos",
+    "fundacion": "1916",
+    "descripcion": "Fabricante aeronáutico internacional, conocido por la familia 737, 747, 777 y 787.",
+    "web": "https://www.boeing.com",
+    "imagen": "/boeing.jpg"
+  }

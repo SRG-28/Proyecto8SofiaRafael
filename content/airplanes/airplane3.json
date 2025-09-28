@@ -1,0 +1,14 @@
+
+  {
+    "id": "3",
+    "modelo": "Boeing 777-300ER",
+    "fabricante_id": "1",
+    "aerolineas_ids": ["4","3","1"],
+    "anho_introduccion": 2004,
+    "tipo": "Wide-body / Largo alcance",
+    "capacidad_pasajeros": 365,
+    "alcance_km": 13650,
+    "descripcion": "Amplio fuselaje para rutas intercontinentales; alta capacidad de pasajeros y carga.",
+    "imagen": "/boeing 777-300er.jpg"
+  }
+
