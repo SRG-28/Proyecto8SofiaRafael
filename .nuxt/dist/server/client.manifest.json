@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "C:/Users/sofia/Downloads/Proyecto1_Sofia_Rafael_Arquitectura/Proyecto1_Sofia_Rafael_Arquitectura/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "C:/Users/sofia/Downloads/Proyecto1_Sofia_Rafael_Arquitectura/Proyecto1_Sofia_Rafael_Arquitectura/node_modules/nuxt/dist/app/entry.js"
+  }
+}

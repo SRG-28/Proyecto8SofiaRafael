@@ -1,0 +1,14 @@
+
+  {
+    "id": "7",
+    "modelo": "Boeing 787-9 Dreamliner",
+    "fabricante_id": "1",
+    "aerolineas_ids": ["4","2","1"],
+    "anho_introduccion": 2014,
+    "tipo": "Wide-body / Largo alcance",
+    "capacidad_pasajeros": 290,
+    "alcance_km": 14140,
+    "descripcion": "Avión de fuselaje compuesto con alta eficiencia de combustible y confort en cabina.",
+    "imagen": "/boeing 787-9 Dreamliner.jpg"
+  }
+

@@ -1,0 +1,14 @@
+
+  {
+    "id": "5",
+    "modelo": "Embraer E195-E2",
+    "fabricante_id": "3",
+    "aerolineas_ids": ["2","6"],
+    "anho_introduccion": 2019,
+    "tipo": "Regional jet / Pasajeros",
+    "capacidad_pasajeros": 146,
+    "alcance_km": 4800,
+    "descripcion": "Jet regional de nueva generación de Embraer, optimizado para rutas de corta y media distancia.",
+    "imagen": "/embraer e195-e2.jpg"
+  }
+

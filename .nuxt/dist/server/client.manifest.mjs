@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/sofia/Downloads/Proyecto1_Sofia_Rafael_Arquitectura/Proyecto1_Sofia_Rafael_Arquitectura/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

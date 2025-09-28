@@ -1,0 +1,11 @@
+
+  {
+    "id": "3",
+    "nombre": "Embraer",
+    "pais_sede": "Brasil",
+    "fundacion": "1969",
+    "descripcion": "Fabricante brasileño especializado en aviones regionales y ejecutivos (E-Jets).",
+    "web": "https://www.embraer.com",
+    "imagen": "/embraer.png"
+  }
+
