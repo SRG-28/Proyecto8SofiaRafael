@@ -3,7 +3,7 @@
     <!-- Header -->
     <header class="mb-16 relative z-10">
       <h1 class="text-5xl font-extrabold mb-4 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 bg-clip-text text-transparent animate-text">
-        ✈️ Catálogo de Aviones Comerciales
+        🔹Catálogo de Aviones Comerciales 🔹
       </h1>
       <h2 class="text-2xl text-purple-700 mb-6">Explora modelos, fabricantes y aerolíneas</h2>
       <p class="text-base text-gray-700 max-w-3xl mx-auto mb-12 leading-relaxed">
