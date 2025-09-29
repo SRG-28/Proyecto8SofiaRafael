@@ -1,5 +1,5 @@
 {
-    "name": "airplanes",
+    "name": "laptops-site",
     "private": true,
     "scripts": {
         "dev": "nuxt dev",
